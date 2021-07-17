@@ -7,9 +7,9 @@ I never know what to say honestly. I like anime, tech, philosophy, copyleft? I'm
 <!-- BLOGPOSTS:END -->
 
 <!-- feed start -->
+- Jul 15 - [Writing out thoughts as neccessity & thoughts of the day.](https://thelion.website/writing-out-thoughts-as-neccessity/)
 - Jun 22 - [Flathub, runtimes and stats.](https://thelion.website/flathub-runtimes-and-stats/)
 - Dec 28 - [Wogue is not a good person](https://thelion.website/wogue-is-not-a-good-person/)
 - Dec 26 - [Why I don't believe in encrypted mail providers anymore](https://thelion.website/why-i-dont-believe-in-encrypted-mail-anymore/)
 - Dec 17 - [I'm trying out Plausible Analytics](https://thelion.website/trying-out-plausible-io/)
-- Dec 13 - [Why I post my pronouns and you should too](https://thelion.website/why-i-post-my-pronouns-and-you-should-too/)
 <!-- feed end -->
