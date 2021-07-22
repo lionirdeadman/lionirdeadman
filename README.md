@@ -7,7 +7,7 @@ I never know what to say honestly. I like anime, tech, philosophy, copyleft? I'm
 <!-- BLOGPOSTS:END -->
 
 <!-- feed start -->
-- Jul 20 - [Capitalism in Free Software & why Flash was important](https://thelion.website/capitalism-apolitical-free-software-and-more/)
+- Jul 20 - [Capitalism in Free Software & why Flash was important](https://thelion.website/capitalism-in-free-software-and-flash-in-early-web/)
 - Jul 15 - [Writing out thoughts as neccessity & thoughts of the day.](https://thelion.website/writing-out-thoughts-as-neccessity/)
 - Jun 22 - [Flathub, runtimes and stats.](https://thelion.website/flathub-runtimes-and-stats/)
 - Dec 28 - [Wogue is not a good person](https://thelion.website/wogue-is-not-a-good-person/)
