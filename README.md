@@ -7,9 +7,9 @@ I never know what to say honestly. I like anime, tech, philosophy, copyleft? I'm
 <!-- BLOGPOSTS:END -->
 
 <!-- feed start -->
-- Aug 23 - [Conversations in the physical world](https://thelion.website/conversations-in-the-physical-world/)
-- Aug 18 - [Discord on Flathub : Permissions explained](https://thelion.website/flathub-discord-permissions-explained/)
-- Aug 15 - [Frustration of the numbers and my domain on the internet](https://thelion.website/frustration-of-the-numbers-and-my-domain/)
-- Aug 12 - [The Socratic method in conversations, trans issues and romantic relationships](https://thelion.website/socrates-trans-issues-and-view-on-romantic-relationships/)
-- Aug 08 - [Redesign and rebuilt in Hugo](https://thelion.website/redesign-and-rebuilt-in-hugo/)
+- Sep 02 - [Tags, posts types and design](https://thelion.website/posts/tags-posts-types-and-design/)
+- Aug 23 - [Conversations in the physical world](https://thelion.website/posts/conversations-in-the-physical-world/)
+- Aug 18 - [Discord on Flathub : Permissions explained](https://thelion.website/posts/flathub-discord-permissions-explained/)
+- Aug 08 - [Redesign and rebuilt in Hugo](https://thelion.website/posts/redesign-and-rebuilt-in-hugo/)
+- Jun 22 - [Flathub, runtimes and stats.](https://thelion.website/posts/flathub-runtimes-and-stats/)
 <!-- feed end -->
